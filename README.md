@@ -1,3 +1,3 @@
-# Projet Ocalm
+# Project Ocaml
 
 Scholar project about string-builder in Ocaml applied to biology and DNA.
